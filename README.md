@@ -64,3 +64,5 @@ endmodule
 ![{70E4B03A-90B4-4015-9224-384D56D5D611}](https://github.com/user-attachments/assets/ffd4a584-bbc5-459c-ba33-a783b62a7d26)
 
 **RESULTS**
+ Thus the JK flipflop using verilog and validating their functionality using
+ their functional tables is implemented
